@@ -115,10 +115,6 @@ prompt-writer/
 │       ├── composition.md
 │       ├── lighting.md
 │       └── shot-types.md
-├── logs
-│   └── d20ea92b-1187-4d32-8d58-aacfbcc3a49f
-│       ├── post_tool_use.json
-│       └── pre_tool_use.json
 ├── package.json
 ├── src
 │   ├── cli.ts
