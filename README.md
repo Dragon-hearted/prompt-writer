@@ -99,7 +99,11 @@ bun run systems/prompt-writer/src/cli.ts
 
 ```
 prompt-writer/
+├── README.md
 ├── biome.json
+├── images
+│   ├── hero.svg
+│   └── pipeline.svg
 ├── justfile
 ├── knowledge
 │   ├── acceptance-criteria.md
