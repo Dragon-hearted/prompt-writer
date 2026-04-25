@@ -2,7 +2,7 @@
 
 ![PromptWriter](images/hero.svg)
 
-### Centralized prompt engineering knowledge system with per-model guides, visual direction references, and a model registry for AI image, video, and voice generation — the single authority for prompt writing across all Adcelerate systems
+### Single source of prompt-engineering knowledge
 
 ![Status](https://img.shields.io/badge/Status-active-brightgreen)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
